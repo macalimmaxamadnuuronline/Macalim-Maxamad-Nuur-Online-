@@ -5,3 +5,4 @@ policyname  |  cmd   |                    qual                    |             
  delete todos | DELETE | ( SELECT (auth.user_id() = todos.user_id)) |
  view todos   | SELECT | ( SELECT (auth.user_id() = todos.user_id)) |
 (4 rows)
+https://github.com/macalimmaxamadnuuronline/Macalim-Maxamad-Nuur-Online-.git
